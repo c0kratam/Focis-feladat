@@ -1,0 +1,5 @@
+Nagy Ádám; 22; 15; 32
+Kiss Gábor; 23; 30; 40
+Kovács János; 24; 12; 50
+Lakatos Gyula; 21; 14; 30
+Szabó László; 26; 23; 61
